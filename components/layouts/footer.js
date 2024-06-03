@@ -65,7 +65,7 @@ const Footer = () => {
         <div className="xl:grid xl:grid-cols-2 xl:gap-8">
           <div className="space-y-2">
             <h2 className="flex h-10 shrink-0 items-center text-xl md:text-3xl font-bold focus:outline-none dark:text-white mb-5">
-              &{">"} /dev/null
+              &{">"} /Ibad/Dev
             </h2>
             <h3 className="mb-2 text-lg font-bold text-accents-300 dark:text-white/80">
               Hubungi Saya
