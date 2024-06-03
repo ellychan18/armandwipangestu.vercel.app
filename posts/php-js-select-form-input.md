@@ -2,7 +2,7 @@
 published: true
 title: "PHP JS - Select Option Form Input"
 tag: "Programming"
-date: "Juni 03 2024"
+date: "Juny 03 2024"
 excerpt: "Pada artikel ini kita akan menggabungkan PHP dan JS untuk menangani select option pada form input"
 cover_image: "/images/posts/default.png"
 author_name: "Nur Ibad"
