@@ -55,11 +55,11 @@ const HomePage = () => {
               </Link>
 
               <Link
-                href="#"
+                href="https://chat.whatsapp.com/JVYVACUGric3DQdxAOX5ro"
                 target="_blank"
                 className="ml-2 md:ml-5 rounded-full bg-dark text-white dark:bg-white dark:text-dark px-5 py-2.5 text-base font-semibold transition duration-300 ease-in-out hover:opacity-80 hover:shadow-lg md:px-8 md:py-3"
               >
-                Download CV
+                Bot WhatsApp
               </Link>
             </div>
 
