@@ -76,7 +76,7 @@ const AboutPage = () => {
               <div className="flex items-center">
                 {/* Github */}
                 <a
-                  href="https://github.com/armandwipangestu"
+                  href="https://chat.whatsapp.com/JVYVACUGric3DQdxAOX5ro"
                   target="_blank"
                   className="group mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
                 >
@@ -88,7 +88,7 @@ const AboutPage = () => {
 
                 {/* GitLab */}
                 <a
-                  href="https://gitlab.com/armandwipangestu"
+                  href="https://gitlab.com/"
                   target="_blank"
                   className="group mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
                 >
@@ -100,7 +100,7 @@ const AboutPage = () => {
 
                 {/* Youtube */}
                 <a
-                  href="https://www.youtube.com/channel/UCqo9Q_EpEJWGJLB2xmm_g3A"
+                  href="https://www.youtube.com/"
                   target="_blank"
                   className="group mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
                 >
@@ -112,7 +112,7 @@ const AboutPage = () => {
 
                 {/* Instagram */}
                 <a
-                  href="https://www.instagram.com/devvnnull/"
+                  href="https://www.instagram.com/"
                   target="_blank"
                   className="group mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
                 >
@@ -124,7 +124,7 @@ const AboutPage = () => {
 
                 {/* Linkedin */}
                 <a
-                  href="https://www.linkedin.com/in/arman-dwi-pangestu"
+                  href="https://www.linkedin.com/"
                   target="_blank"
                   className="group mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white"
                 >
