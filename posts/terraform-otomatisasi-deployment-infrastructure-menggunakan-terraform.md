@@ -2,7 +2,7 @@
 published: true
 title: "Terraform - Otomatisasi Deployment Infrastructure Menggunakan Terraform"
 tag: "Cloud"
-date: "Mei 18 2024"
+date: "May 18 2024"
 excerpt: "Pada pembahasan kali ini saya akan mencoba menggunakan Terraform untuk mendeploy infrastructure pada Google Cloud Platform (GCP)"
 cover_image: "/images/posts/Terraform - Otomatisasi Deployment Infrastructure Menggunakan Terraform.png"
 author_name: "Nur Ibad"
