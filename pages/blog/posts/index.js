@@ -12,7 +12,7 @@ const PostsPage = ({ posts }) => {
         title={`Blog - Posts`}
         description={`Daftar artikel yang saya terbitkan`}
         image="/metadata/blog.png"
-        url={`https://armandwipangestu.vercel.app/blog/posts`}
+        url={`https://nuribad.vercel.app/blog/posts`}
       />
 
       <ArticleLayout posts={posts} tag="posts" />
