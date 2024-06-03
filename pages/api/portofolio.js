@@ -16,7 +16,7 @@ export default async function handler(req, res) {
 
 const data = [
   {
-    link: "https://github.com/armandwipangestu/e-perpus-solo",
+    link: "https://github.com/",
     thubmnail: "/portofolio/e-perpus-solo.png",
     alt: "CodeIgniter 3 - E-PERPUS SOLO",
     title: "CodeIgniter 3 - E-PERPUS SOLO",
@@ -25,7 +25,7 @@ const data = [
     techs: ["CodeIgniter 3", "Mazer", "ApexCharts", "MySQL"],
   },
   {
-    link: "https://github.com/armandwipangestu/armandwipangestu.vercel.app",
+    link: "https://nuribad.vercel.app",
     thubmnail: "/portofolio/portofolio.png",
     alt: "NextJS - Web Portofolio & Blog",
     title: "NextJS - Web Portofolio & Blog",
@@ -33,7 +33,7 @@ const data = [
     techs: ["NextJS", "ReactJS", "TailwindCSS", "Markdown"],
   },
   {
-    link: "https://github.com/armandwipangestu/beasiswa",
+    link: "https://github.com/",
     thubmnail: "/portofolio/beasiswa.png",
     alt: "CodeIgniter 3 - Beasiswa",
     title: "CodeIgniter 3 - Beasiswa",
@@ -42,7 +42,7 @@ const data = [
     techs: ["CodeIgniter 3", "Bootstrap", "Stisla", "MySQL"],
   },
   {
-    link: "https://github.com/armandwipangestu/vba-toko-alat-olahraga",
+    link: "https://github.com/",
     thubmnail: "/portofolio/vba-toko_alat_olahraga.png",
     alt: "VBA - Toko Alat Olahraga",
     title: "VBA - Toko Alat Olahraga",
@@ -51,7 +51,7 @@ const data = [
     techs: ["Visual Basic Application", "Excel"],
   },
   {
-    link: "https://github.com/armandwipangestu/openai-project",
+    link: "https://github.com/",
     thubmnail: "/portofolio/openai-project.png",
     alt: "ReactJS - OpenAI Project",
     title: "ReactJS - OpenAI Project",
@@ -60,7 +60,7 @@ const data = [
     techs: ["ReactJS", "TailwindCSS", "Axios"],
   },
   {
-    link: "https://github.com/Awesomesh0t/awesomeshot",
+    link: "https://github.com/",
     thubmnail: "/portofolio/awesomeshot2.png",
     alt: "BASH - Awesomeshot",
     title: "BASH - Awesomeshot",
@@ -69,7 +69,7 @@ const data = [
     techs: ["BASH", "ImageMagick"],
   },
   {
-    link: "https://github.com/armandwipangestu/blog",
+    link: "https://nuribad.vercell.app/blog",
     thubmnail: "/portofolio/blog-php-native.png",
     alt: "PHP - Blog",
     title: "PHP - Blog",
