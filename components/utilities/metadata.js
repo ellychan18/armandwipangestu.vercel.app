@@ -4,8 +4,8 @@ const Metadata = ({ title, description, image, url }) => {
   return (
     <Head>
       {/* HTML Meta Tags */}
-      <title>{title}</title>
-      <meta name="description" content={description} />
+      <title>NUR IBAD</title>
+      <meta name="description" content="Website Blog Sederhana Dengan Menggunakan Pemrograman NextJS" />
       <meta charSet="UTF-8" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
 
