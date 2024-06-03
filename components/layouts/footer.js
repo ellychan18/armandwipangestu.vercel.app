@@ -185,7 +185,7 @@ const Footer = () => {
         </div>
         <div className="mt-16 flex items-center justify-center border-t border-dark pt-8 dark:border-white/10 sm:mt-20 lg:mt-24">
           <p className="text-accents-300 dark:text-white/80 text-xs leading-5">
-            © Copyright 2023 - {new Date().getFullYear()} devnull. All rights
+            © Copyright 2023 - {new Date().getFullYear()} ibad dev. All rights
             reserved.
           </p>
         </div>
