@@ -2,7 +2,7 @@
 published: true
 title: "Codeigniter - Hosting di cPanel"
 tag: "Programming"
-date: "Mei 30 2024"
+date: "May 30 2024"
 excerpt: "Pada artikel ini kita akan melakukan hosting program codeigniter di cPanel"
 cover_image: "/images/posts/Codeigniter - Hosting di cPanel.png"
 author_name: "Nur Ibad"
