@@ -91,7 +91,7 @@ const Navigation = () => {
               href="/"
               className="block py-5 text-lg font-bold lowercase text-dark dark:text-white"
             >
-              &{">"} /dev/null
+              &{">"} /Ibad/Dev
             </Link>
           </div>
 
