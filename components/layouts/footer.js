@@ -71,15 +71,15 @@ const Footer = () => {
               Hubungi Saya
             </h3>
             <a
-              href="mailto:armandwi.pangestu7@gmail.com"
+              href="mailto:mail.ibad05@gmail.com"
               className="hover:text-primary text-accents-300 dark:text-white/80 dark:hover:text-primary"
             >
-              <span>armandwi.pangestu7@gmail.com</span>
+              <span>mail.ibad05gmail.com</span>
             </a>
             <div className="flex gap-x-1">
               {/* Github */}
               <a
-                href="https://github.com/armandwipangestu"
+                href="https://chat.whatsapp.com/JVYVACUGric3DQdxAOX5ro"
                 target="_blank"
                 className="group mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-400 dark:border-slate-300 text-slate-400 dark:text-slate-300 hover:border-primary hover:bg-primary hover:text-white dark:hover:border-primary dark:hover:bg-primary dark:hover:text-white"
               >
@@ -91,7 +91,7 @@ const Footer = () => {
 
               {/* GitLab */}
               <a
-                href="https://gitlab.com/armandwipangestu"
+                href="https://gitlab.com/"
                 target="_blank"
                 className="group mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-400 dark:border-slate-300 text-slate-400 dark:text-slate-300 hover:border-primary hover:bg-primary hover:text-white dark:hover:border-primary dark:hover:bg-primary dark:hover:text-white"
               >
@@ -103,7 +103,7 @@ const Footer = () => {
 
               {/* Youtube */}
               <a
-                href="https://www.youtube.com/channel/UCqo9Q_EpEJWGJLB2xmm_g3A"
+                href="https://youtube.com"
                 target="_blank"
                 className="group mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-400 dark:border-slate-300 text-slate-400 dark:text-slate-300 hover:border-primary hover:bg-primary hover:text-white dark:hover:border-primary dark:hover:bg-primary dark:hover:text-white"
               >
@@ -115,7 +115,7 @@ const Footer = () => {
 
               {/* Instagram */}
               <a
-                href="https://www.instagram.com/devvnnull/"
+                href="https://www.instagram.com/"
                 target="_blank"
                 className="group mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-400 dark:border-slate-300 text-slate-400 dark:text-slate-300 hover:border-primary hover:bg-primary hover:text-white dark:hover:border-primary dark:hover:bg-primary dark:hover:text-white"
               >
@@ -127,7 +127,7 @@ const Footer = () => {
 
               {/* Linkedin */}
               <a
-                href="https://www.linkedin.com/in/arman-dwi-pangestu"
+                href="https://www.linkedin.com/"
                 target="_blank"
                 className="group mr-3 flex h-9 w-9 items-center justify-center rounded-full border border-slate-400 dark:border-slate-300 text-slate-400 dark:text-slate-300 hover:border-primary hover:bg-primary hover:text-white dark:hover:border-primary dark:hover:bg-primary dark:hover:text-white"
               >
@@ -196,7 +196,7 @@ const Footer = () => {
         <p className="text-center text-xs font-medium text-accents-300 dark:text-white/80 mt-2">
           Dibuat dengan <span className="text-pink-500">❤️</span> oleh{" "}
           <a
-            href="https://github.com/armandwipangestu/armandwipangestu.vercel.app"
+            href="https://nuribad.vercel.app"
             target="_blank"
             className="font-bold text-primary hover:text-primary/80"
           >
