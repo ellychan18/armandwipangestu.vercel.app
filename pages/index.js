@@ -20,7 +20,7 @@ const HomePage = () => {
               <h1 className="text-base font-semibold text-primary md:text-xl">
                 Halo Semua 👋, Saya
                 <span className="mt-1 block text-3xl font-bold text-dark dark:text-white lg:text-5xl">
-                  Arman Dwi Pangestu
+                  M Nur Ibad
                 </span>
               </h1>
 
@@ -66,7 +66,7 @@ const HomePage = () => {
             <div className="w-full self-end px-4 lg:w-1/2">
               <div className="relative mt-10 lg:right-0 lg:mt-0">
                 <Image
-                  alt="Arman Dwi Pangestu"
+                  alt="M Nur Ibad"
                   src="/me.png"
                   className="relative z-[1] mx-auto max-w-full"
                   width={417}
