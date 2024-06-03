@@ -200,7 +200,7 @@ const Footer = () => {
             target="_blank"
             className="font-bold text-primary hover:text-primary/80"
           >
-            Arman Dwi Pangestu
+            M Nur Ibad
           </a>
           , menggunakan{" "}
           <a
