@@ -4,7 +4,7 @@ const Metadata = ({ title, description, image, url }) => {
   return (
     <Head>
       {/* HTML Meta Tags */}
-      <title>{title}</title>
+      <title>Ibad Blog - {title}</title>
       <meta name="description" content={description} />
       <meta charSet="UTF-8" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
