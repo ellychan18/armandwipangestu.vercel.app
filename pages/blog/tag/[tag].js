@@ -36,6 +36,7 @@ export const getStaticPaths = async () => {
       { params: { tag: "cloud" } },
       { params: { tag: "sysadmin" } },
       { params: { tag: "information" } },
+      { params: { tag: "kesehatan" } },
     ],
     fallback: false,
   };
