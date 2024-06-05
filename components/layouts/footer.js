@@ -24,6 +24,7 @@ const tags = [
   { title: "Cloud", target: "/blog/tag/cloud" },
   { title: "SysAdmin", target: "/blog/tag/sysadmin" },
   { title: "Information", target: "/blog/tag/information" },
+  { title: "Kesehatan", target: "/blog/tag/kesehatan" },
 ];
 
 const Footer = () => {
